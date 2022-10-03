@@ -8,7 +8,7 @@ pallindrome checker
 
 ![](https://img.shields.io/badge/Rishu%20srivastava-BCA-orange)
 
-# **Pallindrome checker ** [Live Link]
+# **Pallindrome checker** [Live Link](https://pallindromechecker-1.netlify.app/)
  >- Skills gained in this project
  >- Learned about dom manipulation
  >- learned about how to use eventlistener
